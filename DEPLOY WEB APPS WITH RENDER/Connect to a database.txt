@@ -1,0 +1,8 @@
+Internal Database URL
+
+postgres://activities_user:Fm4H9hJBtUoLOUbOt3C4wTRjRRTaHAm4@dpg-cnt7g9f109ks73b4ml1g-a/activity_database_afd3
+
+PSQL Command
+
+PGPASSWORD=Fm4H9hJBtUoLOUbOt3C4wTRjRRTaHAm4 psql -h dpg-cnt7g9f109ks73b4ml1g-a.oregon-postgres.render.com -U activities_user activity_database_afd3
+
